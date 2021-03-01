@@ -34,6 +34,7 @@ Read the instructions in this notebook carefully, especially where asked to name
 Please remember the University requirement regarding all assessed work for credit. Details about this can be found at:
 http://web.inf.ed.ac.uk/infweb/admin/policies/academic-misconduct
 Specifically, this assignment should be your own individual work. We will employ tools for detecting misconduct.
+
 Moreover, please note that Piazza is NOT a forum for discussing the solutions of the assignment. You may, in exceptional circumstances, ask private questions.
 
 ### SUBMISSION Mechanics
